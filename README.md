@@ -8,7 +8,9 @@ The data set contains the following diseases:
 Actinic keratosis Basal cell carcinoma Dermatofibroma Melanoma Nevus Pigmented benign keratosis Seborrheic keratosis Squamous cell carcinoma Vascular lesion
 
 # Technologies Used
-Python Tensorflow keras
+Python - version3.6
+Tensorflow -version2.11.0
+keras-version2.11.0
 
 # Conclusions
 Images are classified succesfully with 92% accuracy.
